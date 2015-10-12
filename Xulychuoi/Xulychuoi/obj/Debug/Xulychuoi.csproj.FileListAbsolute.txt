@@ -7,3 +7,6 @@ E:\Lập trình môi trường trực quan\Bài tập xử lý chuỗi\Xulychuoi
 E:\Lập trình môi trường trực quan\Bài tập xử lý chuỗi\Xulychuoi\Xulychuoi\bin\Debug\Xulychuoi.pdb
 E:\Lập trình môi trường trực quan\Bài tập xử lý chuỗi\Xulychuoi\Xulychuoi\obj\Debug\Xulychuoi.exe
 E:\Lập trình môi trường trực quan\Bài tập xử lý chuỗi\Xulychuoi\Xulychuoi\obj\Debug\Xulychuoi.pdb
+C:\Users\XPERIA\Desktop\New folder (2)\AAAA\Xulychuoi\Xulychuoi\bin\Debug\Xulychuoi.exe.config
+C:\Users\XPERIA\Desktop\New folder (2)\AAAA\Xulychuoi\Xulychuoi\obj\Debug\Xulychuoi.exe
+C:\Users\XPERIA\Desktop\New folder (2)\AAAA\Xulychuoi\Xulychuoi\obj\Debug\Xulychuoi.pdb

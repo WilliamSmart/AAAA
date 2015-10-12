@@ -50,7 +50,7 @@ namespace Xulychuoi
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-            textBox1.Text = "Trong thời đại công công công công công nghiêp hiện nay, nhiều quốc gia trên thế giới đều đầu tư rất mạnh vào lĩnh vực Công Nghệ Thông Tin, cụ thể là Tin học hóa Công việc văn phòng, đẩy mạnh Thương mại điện tử...";
+            textBox1.Text = "Trong aaaaaa công công công công công nghiêp hiện nay, nhiều quốc gia trên thế giới đều đầu tư rất mạnh vào lĩnh vực Công Nghệ Thông Tin, cụ thể là Tin học hóa Công việc văn phòng, đẩy mạnh Thương mại điện tử...";
         }
 
         private void button1_Click(object sender, EventArgs e)
