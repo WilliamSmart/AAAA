@@ -1,0 +1,9 @@
+E:\Lập trình môi trường trực quan\Bài tập xử lý chuỗi\Xulychuoi\Xulychuoi\bin\Debug\Xulychuoi.exe.config
+E:\Lập trình môi trường trực quan\Bài tập xử lý chuỗi\Xulychuoi\Xulychuoi\obj\Debug\Xulychuoi.csprojResolveAssemblyReference.cache
+E:\Lập trình môi trường trực quan\Bài tập xử lý chuỗi\Xulychuoi\Xulychuoi\obj\Debug\Xulychuoi.Form1.resources
+E:\Lập trình môi trường trực quan\Bài tập xử lý chuỗi\Xulychuoi\Xulychuoi\obj\Debug\Xulychuoi.Properties.Resources.resources
+E:\Lập trình môi trường trực quan\Bài tập xử lý chuỗi\Xulychuoi\Xulychuoi\obj\Debug\Xulychuoi.csproj.GenerateResource.Cache
+E:\Lập trình môi trường trực quan\Bài tập xử lý chuỗi\Xulychuoi\Xulychuoi\bin\Debug\Xulychuoi.exe
+E:\Lập trình môi trường trực quan\Bài tập xử lý chuỗi\Xulychuoi\Xulychuoi\bin\Debug\Xulychuoi.pdb
+E:\Lập trình môi trường trực quan\Bài tập xử lý chuỗi\Xulychuoi\Xulychuoi\obj\Debug\Xulychuoi.exe
+E:\Lập trình môi trường trực quan\Bài tập xử lý chuỗi\Xulychuoi\Xulychuoi\obj\Debug\Xulychuoi.pdb
